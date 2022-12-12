@@ -5,7 +5,7 @@
 &nbsp;
 
 
-# Eatzis.com
+# [Eatzis.com](https://eatzis.com/)
 ## Wordpress site for marketing with a bundled React app for online ordering from one of six Eatzi's stores.
 
 &nbsp;
@@ -95,7 +95,7 @@
 &nbsp;
 &nbsp;
 
-# Lilyofthedesert.com
+# [Lilyofthedesert.com](https://lilyofthedesert.com/)
 ## An ecommerce Wordpress site for marketing, selling aloe and nutritional products, and a blog for further product promotion. 
 ### `Tech`
 - Wordpress
@@ -120,7 +120,7 @@
 &nbsp;
 &nbsp;
 
-# Goeditgraphics.com
+# [Goeditgraphics.com](https://goeditgraphics.com/)
 ## A React app for allowing users to create custom marketing material for student sports programs
 ### `Tech`
 - React
@@ -141,7 +141,7 @@
 &nbsp;
 &nbsp;
 
-# Kephircoffeeroasters.com
+# [Kephircoffeeroasters.com](https://kephircoffeeroasters.com/)
 ## An ecommerce Wordpress site for selling small batch roasted coffee from the Irish roaster Kephir Coffee that was developed as an independent contractor.
 ### `Tech`
 - Wordpress
